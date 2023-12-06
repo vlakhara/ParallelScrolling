@@ -47,7 +47,7 @@ body {
 
 .text {
   position: absolute;
-  right: -20px;
+  right: 20px;
   font-size: 5rem;
   color: #311433;
   text-shadow: 0px 0px 5px rgb(139, 139, 139);
